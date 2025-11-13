@@ -52,6 +52,7 @@ A identidade visual segue a linha da **Kenner real**:
 ## 📱 Responsividade
 
 O site foi desenvolvido para funcionar bem em **computadores, tablets e celulares**, adaptando o conteúdo e mantendo a identidade visual em todas as telas.
+Acesse por aqui:https://site-conceitual-kenner.vercel.app/
 
 
 ## 💡 Futuras Melhorias
