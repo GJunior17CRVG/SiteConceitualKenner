@@ -39,7 +39,7 @@ A identidade visual segue a linha da **Kenner real**:
 
 1. Faça o clone do repositório:
    
-   git clone https://github.com/SEU-USUARIO/kenner-conceito.git
+   git clone https://github.com/GJunior17CRVG/SiteConceitualKenner.git
 
 2. Abra o projeto:
 
@@ -62,10 +62,10 @@ O site foi desenvolvido para funcionar bem em **computadores, tablets e celulare
 
 ## 👨‍💻 Autor
 
-**G. Junior**
-Desenvolvedor Web | Designer Front-End
-📧 Contato: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-🌐 [GitHub](https://github.com/SEU-USUARIO)
+📧 **E-mail:** [junior2002bahia@gmail.com](mailto:junior2002bahia@gmail.com)  
+🌐 **GitHub:** [github.com/GJunior17CRVG](https://github.com/GJunior17CRVG)  
+💼 **LinkedIn:** [linkedin.com/in/gildásio-brito-b4880b198](https://www.linkedin.com/in/gild%C3%A1sio-brito-b4880b198/)  
+🖥️ **Portfólio:** [meu-portfolio-eta-rose.vercel.app](https://meu-portfolio-eta-rose.vercel.app/)
 
 
 ## 🧾 Licença
